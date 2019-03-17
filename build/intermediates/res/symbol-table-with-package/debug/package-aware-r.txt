@@ -1,0 +1,4 @@
+org.doubango.ngn
+drawable icon
+string app_name
+string doubango_revision

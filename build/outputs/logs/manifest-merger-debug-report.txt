@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:3:7-33
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:5:7-32
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:4:7-30
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+application
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:8:2-12:19
+	android:label
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:8:75-107
+	android:icon
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:8:15-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:8:45-74
+service#org.doubango.ngn.NgnNativeService
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:10:2-44
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:10:11-42
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:15:2-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:15:19-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:16:2-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:16:19-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:17:2-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:17:19-70
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:18:2-76
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:18:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:20:2-78
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:20:19-75
+uses-permission#android.permission.CAMERA
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:21:2-62
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:21:19-59
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:22:2-65
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:22:19-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:23:2-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:23:19-65
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:24:2-77
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:24:19-74
+uses-permission#android.permission.VIBRATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:25:2-63
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:25:19-60
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:26:2-78
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:26:19-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:28:5-73
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:28:22-70
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:29:2-72
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:29:19-69
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:30:2-68
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:30:19-66
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:31:2-69
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:31:19-67
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:32:2-72
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:32:19-69
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:33:2-78
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:33:19-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:34:2-66
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:34:19-63
+uses-permission#android.permission.RAISED_THREAD_PRIORITY
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:35:5-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:37:2-117
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:37:90-114
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:37:19-89
+uses-feature#0x00020000
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:39:5-79
+	android:glEsVersion
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:39:19-51
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:39:53-77
+uses-feature#android.hardware.camera
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:40:2-82
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:40:56-80
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:40:16-54
+uses-feature#android.hardware.audio.low_latency
+ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:41:2-92
+	android:required
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:41:66-90
+	android:name
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml:41:16-65
+uses-sdk
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+		ADDED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
+		INJECTED from D:\AndroidStudioProjects\imsdroid-master\imsdroid-master\android-ngn-stack\AndroidManifest.xml
